@@ -19,12 +19,16 @@ The API ID should not be in parenthesis
 ```sh
 nano config.py
 ``` 
-### 3. After editing your config.py file, save it:
+### 3a. After editing your config.py file, save it:
 CTRL O
 
 ENTER 
 
 CTRL X
+### 3b. Go to the previous directory 
+```sh
+cd ..
+```
 ### 4. Install requirementsts
 ```sh
 python install.py
