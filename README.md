@@ -23,6 +23,7 @@ nano config.py
 CTRL O
 
 ENTER 
+ENTER  i.e press ENTER button twice
 
 CTRL X
 ### 3b. Go to the previous directory 
